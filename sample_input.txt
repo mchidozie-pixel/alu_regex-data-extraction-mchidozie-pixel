@@ -1,0 +1,11 @@
+Hello Team,
+
+Please contact us at support@example.com or sales@my-company.co.uk.
+Visit our website at https://www.example.com or http://sub.example.org/page.
+
+For emergencies, call (123) 456-7890 or 123-456-7890.
+Credit card payment: 1234-5678-9012-3456.
+
+Invalid examples:
+user@@example.com
+1234-5678-9012
